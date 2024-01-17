@@ -10,5 +10,7 @@ This version uses a make usb-c connector and is design to push onto a wall charg
 ![Plugged_In](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/4f69014d-7daf-44b5-adf0-17ec1c5ef7a7)
 ![Top](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/fb37e600-4b05-4a9b-b6c2-cb791e634421)
 ![W_Charger](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/53e4341c-1f8c-437a-b2ac-1d98a05d0ea0)
+Revision 4 has been ordered with a few small changes. Two pushbutton on the lower right for setting the com port are now much smaller. These are only used the once and can be super small. The two pushbutton foorprints for the top buttons are hopefully corrected. A new pushbutton on the bottom will act as a power switch to test out a power switch LTC2954ITS8 that I hope to use in other projects. The device can be turned on and off with a momentaty button instead of a sliding switch and possibly turned off by a gpio pin of the micro. 
+![Rev4](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/582abe23-ff23-4c37-9533-0c070d388054)
 
 

@@ -1,6 +1,6 @@
 # ESP32-S3-CO2-Monitor
 This is the wall charger mount version of the co2 monitor has been slowly evolving for a while.
-It started out as a sensor on qwiic connector but was too messy<br/>
+It started out as a sensor on qwiic connector but was too messy with the two cables <br/>
 
 ![Qwiic](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/ac4c1a78-1831-40d3-baf4-e664a4b44238)
 The next version elinated the cable. Because of the height of the sensor this version puts it on a seperate board and rear mounts it. From the front side all you see is the tiny hole. It requires a usb-c cable that is on the side and can sit on your desk <br/>

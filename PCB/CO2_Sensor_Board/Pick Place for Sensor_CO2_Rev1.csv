@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\mrankin\OneDrive\Arduino_PCB\Custom Boards\John\Bike_CO2_TFT\CO2_Sensor_Board\Project Outputs for CO2_Sensor_Rev1\Pick Place for Sensor_CO2_Rev1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/01/24
+Time:       10:02
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Footprint Description","Center-X(mm)","Center-Y(mm)","Rotation","Description","Manufacturer","Part_Footprint","Value","Vendor","Part_Number"
+"TP4","Test Point, 1mm Top Layer","BottomLayer","TP100TL","Test Point","4.7300","9.1680","270","Test Point, 1mm Top Layer","N/A","","","","N/A"
+"TP3","Test Point, 1mm Top Layer","BottomLayer","TP100TL","Test Point","9.8100","9.1680","270","Test Point, 1mm Top Layer","N/A","","","","N/A"
+"TP2","Test Point, 1mm Top Layer","BottomLayer","TP100TL","Test Point","7.2700","9.1680","270","Test Point, 1mm Top Layer","N/A","","","","N/A"
+"TP1","Test Point, 1mm Top Layer","BottomLayer","TP100TL","Test Point","2.1900","9.1680","0","Test Point, 1mm Top Layer","N/A","","","","N/A"
+"U1","SCD40","TopLayer","SCD40","SCD40, 20-Pins","6.0000","5.6500","270","CO2 SENSOR 50 PPM I2C SMD","Sensirion","SCD40","SCD40","","SCD40"

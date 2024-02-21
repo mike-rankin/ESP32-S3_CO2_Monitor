@@ -5,8 +5,8 @@
 #include <Update.h>
 
 const char* host = "ESP32-S3 CO2";
-const char* ssid = "SureShotGuest";   //XXX
-const char* password = "LAN_Solo77";    //XXX
+const char* ssid = "XXX";   //XXX
+const char* password = "XXX";    //XXX
 
 WebServer server(80);
 

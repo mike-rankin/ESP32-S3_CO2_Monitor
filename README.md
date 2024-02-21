@@ -15,7 +15,7 @@ This version uses a make usb-c connector and is design to push onto a wall charg
 Revision 4 has been ordered with a few small changes. Two pushbutton on the lower right for setting the com port are now much smaller. These are only used the once and can be super small. The two pushbutton foorprints for the top buttons are hopefully corrected. A new pushbutton on the bottom will act as a power switch to test out a power switch LTC2954ITS8 that I hope to use in other projects. The device can be turned on and off with a momentaty button instead of a sliding switch and possibly turned off by a gpio pin of the micro. <br/>
 
 The final version, Rev 5 strips away the unnecessary components like the power switch and Qwiic connector for easier assembly and lower cost
-![Rev5_Wall](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/584d64ce-6121-4f47-93b9-a424e4a9b2bd)
+![Rev5_Wall](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/584d64ce-6121-4f47-93b9-a424e4a9b2bd | width=100)
 ![Rev5_Back](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/0ecfc842-d361-43b6-9e0c-aff5f8392150)
 
 

@@ -17,6 +17,7 @@ Revision 4 has been ordered with a few small changes. Two pushbutton on the lowe
 The final version, Rev 5 strips away the unnecessary components like the power switch and Qwiic connector for easier assembly and lower cost.  <br/>
 
 ![Rev5_Back](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/4f0f9beb-0e83-4cc9-add2-263f7ef9a317)  <br/>
-![Rev5_with_charger](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/b1484754-6595-4540-8b18-19aebf448531)
+![Rev5_with_charger](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/b1484754-6595-4540-8b18-19aebf448531)  <br/>
+![Plugged_In](https://github.com/mike-rankin/ESP32-S3_CO2_Monitor/assets/4991664/a083ba8a-168a-4976-a5cb-1e4e7cee4144)  <br/>
 
 
